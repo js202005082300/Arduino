@@ -63,6 +63,6 @@ git remote add origin https://github.com/js202005082300/Arduino.git
 git pull https://github.com/js202005082300/Arduino.git
 git add *
 git commit -a -m "Update files"
-hkgit push https://github.com/js202005082300/Arduino.git
+git push https://github.com/js202005082300/Arduino.git
 ```
 
