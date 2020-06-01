@@ -1,0 +1,55 @@
+{
+  "files" : [ {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "/home/sam/Bureau/Arduino/arduino-1.8.12/portable/cache/downloads.arduino.cc/libraries/library_index.json.gz",
+    "eTag" : "35f57db315cfd8be222a82c0c2d6b9fc",
+    "md5" : "MD5:35f57db315cfd8be222a82c0c2d6b9fc",
+    "createdAt" : "2020-06-01T16:32:52.726",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-06-01T20:32:52.726"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "/home/sam/Bureau/Arduino/arduino-1.8.12/portable/cache/downloads.arduino.cc/libraries/library_index.json.sig",
+    "eTag" : "adcc51bb14d7a06d408d716646503d44",
+    "md5" : "MD5:adcc51bb14d7a06d408d716646503d44",
+    "createdAt" : "2020-06-01T16:32:53.435",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-06-01T20:32:53.435"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "/home/sam/Bureau/Arduino/arduino-1.8.12/portable/cache/downloads.arduino.cc/packages/package_index.json.sig",
+    "eTag" : "893bbd779eb469985fab7f381390c443",
+    "md5" : "MD5:893bbd779eb469985fab7f381390c443",
+    "createdAt" : "2020-06-01T20:24:27.08",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-06-01T21:24:27.080"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "/home/sam/Bureau/Arduino/arduino-1.8.12/portable/cache/downloads.arduino.cc/packages/package_index.json",
+    "eTag" : "96e3eff40e279bc3ba791c91a399f79e",
+    "md5" : "MD5:96e3eff40e279bc3ba791c91a399f79e",
+    "createdAt" : "2020-06-01T20:24:26.863",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-06-01T21:24:26.863"
+  } ]
+}
