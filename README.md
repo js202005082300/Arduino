@@ -21,9 +21,9 @@
 
 ## Linux installation
 
-[Installation portable](https://www.arduino.cc/en/Guide/PortableIDE)  
-[Téléchargement](https://www.arduino.cc/en/Main/Software)  
-[Installation à partir des dépots](https://doc.ubuntu-fr.org/arduino)  
++ Installation portable : [https://www.arduino.cc/en/Guide/PortableIDE](https://www.arduino.cc/en/Guide/PortableIDE)  
++ Téléchargement : [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software)  
++ Installation à partir des dépots : [https://doc.ubuntu-fr.org/arduino](https://doc.ubuntu-fr.org/arduino)  
 ```
 sudo apt-get update
 sudo apt-get install arduino            (installer arduino présent dans les dépots Universe d'Ubuntu)
@@ -31,7 +31,7 @@ sudo apt-get install arduino-mk         (programmer Arduino en ligne de commande
 sudo apt-get remove arduino arduino-mk  (suppression des paquets Arduino)
 sudo apt autoremove                     (supprimer les dépendances installées)
 ```
-[Installation en dur](https://vitux.com/how-to-install-arduino-ide-on-ubuntu/)
++ Installation en dur : [https://vitux.com/how-to-install-arduino-ide-on-ubuntu](https://vitux.com/how-to-install-arduino-ide-on-ubuntu)
 ```
 cd /home/$USER/Téléchargements/
 tar -xf arduino-1.8.12-linux64.tar.xz   (décompresser le dossier d'archives)
