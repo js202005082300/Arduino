@@ -21,9 +21,9 @@
 
 ## Linux installation
 
-[Installation portable](https://www.arduino.cc/en/Guide/PortableIDE)
-[Téléchargement](https://www.arduino.cc/en/Main/Software)
-[Installation à partir des dépots](https://doc.ubuntu-fr.org/arduino)
+[Installation portable](https://www.arduino.cc/en/Guide/PortableIDE)  
+[Téléchargement](https://www.arduino.cc/en/Main/Software)  
+[Installation à partir des dépots](https://doc.ubuntu-fr.org/arduino)  
 ```
 sudo apt-get update
 sudo apt-get install arduino            (installer arduino présent dans les dépots Universe d'Ubuntu)
