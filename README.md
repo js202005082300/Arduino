@@ -6,7 +6,13 @@
 + [GOPROcam](sketchbook/GOPROcam/GOPROcam.ino)  
 + [MQsensor](sketchbook/MQsensor/MQsensor.ino)  
 
->>>>>>
+>
+
+## Boards
+
++ [Yún Rev. 2](https://www.arduino.cc/en/Guide/ArduinoYunRev2#toc22)
++ [ATmega2560](https://www.arduino.cc/en/pmwiki.php?n=Main/arduinoBoardMega2560)
++ [MKR WiFi 1010](https://docs.arduino.cc/hardware/mkr-wifi-1010)
 
 <!-- ## Tutoriels avancement
 
@@ -36,9 +42,6 @@ mkdir /home/$USER/Bureau/Arduino/arduino-1.8.12/portable/staging
 mkdir /home/$USER/Bureau/Arduino/arduino-1.8.12/portable/packages
 ./arduino   (portable execution)   ou   sudo ./install.sh   (installation)
 ```
-
-## Yún Rev. 2
-[Config.. Yún Rev. 2](https://www.arduino.cc/en/Guide/ArduinoYunRev2#toc22)
 
 <!-- ## Drone experimentation
 [Drone assemblage](https://www.robotshop.com/community/blog/show/comment-fabriquer-un-droneuav-lecon-5-assemblage) -->
