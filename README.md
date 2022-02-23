@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Arduino 
-=======
 # Arduino
 
 ## Tutorials
@@ -30,43 +27,8 @@ mkdir /home/$USER/Bureau/Arduino/arduino-1.8.12/portable/packages
 ./arduino   (portable execution)   ou   sudo ./install.sh   (installation)
 ```
 
-## Libraries path
-Fichier -> Préférences : 
-C:\Users\js201\OneDrive\Formations\Programmation\Arduino\cours
-
 ## Yún Rev. 2
 [Config.. Yún Rev. 2](https://www.arduino.cc/en/Guide/ArduinoYunRev2#toc22)
 
 ## Drone experimentation
 [Drone assemblage](https://www.robotshop.com/community/blog/show/comment-fabriquer-un-droneuav-lecon-5-assemblage)
-
-## Repository Arduino
-+ Initialiser le premier PC (dépot existant)
-[Créer un nouveau dépot](https://github.com/new)
-```
-git init
-git config --global core.autocrlf false
-git add *
-git commit -a -m "Update files"
-git push https://github.com/js202005082300/Arduino.git
-```
-+ Initialiser le second PC
-```
-git init
-git pull https://github.com/js202005082300/Arduino.git
-```
-+ Configuration sur les deux PC
-```
-git config --global user.email "js201910271836@outlook.com"
-git config --global user.name "js"
-git remote add origin https://github.com/js202005082300/Arduino.git
-```
-+ Lors de chaque nouveau partage entre pc.
-```
-git pull https://github.com/js202005082300/Arduino.git
-git add *
-git commit -a -m "Update files"
-git push https://github.com/js202005082300/Arduino.git
-```
-
->>>>>>> 79786a709d44602268680f0880c19b4ab7ac4c91
