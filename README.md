@@ -3,11 +3,8 @@
 ## Sketchbook
 
 + [DHTsensor](sketchbook/DHTsensor/DHTsensor.ino)  
-
 + [GOPROcam](sketchbook/GOPROcam/GOPROcam.ino)  
-
 + [MQsensor](sketchbook/MQsensor/MQsensor.ino)  
-![20211128_210036.jpg](20211128_210036.jpg)  
 
 >
 
@@ -48,3 +45,7 @@ mkdir /home/$USER/Bureau/Arduino/arduino-1.8.12/portable/packages
 
 <!-- ## Drone experimentation
 [Drone assemblage](https://www.robotshop.com/community/blog/show/comment-fabriquer-un-droneuav-lecon-5-assemblage) -->
+
+## MQ Sensor's
+
+![20211128_210036.jpg](20211128_210036.jpg)  
