@@ -1,6 +1,6 @@
 # Arduino
 
-## sketchbook\DHTsensor
+## Sketchbook
 
 + [DHTsensor](sketchbook\DHTsensor\DHTsensor.ino)  
 + [GOPROcam](sketchbook\GOPROcam\GOPROcam.ino)  
